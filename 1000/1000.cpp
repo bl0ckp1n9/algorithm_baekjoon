@@ -7,8 +7,8 @@
 
 #include <iostream>
 using namespace std;
-int main() {
-  int A,B;
+int solve() {
+  int A, B;
   cin >> A >> B;
-  cout << A+B;
+  cout << A + B;
 }
