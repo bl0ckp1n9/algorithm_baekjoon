@@ -23,7 +23,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int solve9012() {
   int N;
 
   cin >> N;

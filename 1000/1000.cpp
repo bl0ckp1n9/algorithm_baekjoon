@@ -7,7 +7,7 @@
 
 #include <iostream>
 using namespace std;
-int solve() {
+int solve1000() {
   int A, B;
   cin >> A >> B;
   cout << A + B;
