@@ -1,2 +1,2 @@
-language = "10814"
-run = "problemId=11651 ; g++ -std=c++17 -o ./acmicpc.net/${problemId} ./acmicpc.net/${problemId}.cpp ; ./acmicpc.net/${problemId} ; rm ./acmicpc.net/${problemId}"
+language = "11656"
+run = "problemId=2467 ; g++ -std=c++17 -o ./acmicpc.net/${problemId} ./acmicpc.net/${problemId}.cpp ; ./acmicpc.net/${problemId} ; rm ./acmicpc.net/${problemId}"
